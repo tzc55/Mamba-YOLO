@@ -17,7 +17,8 @@ To facilitate the review process and demonstrate the authenticity of our propose
 ## 📌 Architecture Overview
 Mamba-YOLO is a spatio-temporal closed-loop architecture designed for extreme early-stage wildland fire detection on resource-constrained UAVs. It achieves an unprecedented single-frame inference latency of **2.16 ms (over 660 FPS)** while strictly maintaining zero-miss detection for micro-targets.
 
-*(Optional: Insert your architecture diagram here)*
+<img width="966" height="604" alt="e63f7d6e97367de84244b6a6fb751083" src="https://github.com/user-attachments/assets/d50aef19-1810-46e0-ac5d-7ebe3087b7f8" />
+
 
 ## 📧 Contact
 During the review process, the complete uncleaned codebase is available from the corresponding author on reasonable request.
